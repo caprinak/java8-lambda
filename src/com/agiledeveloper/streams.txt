@@ -1,0 +1,11 @@
+Streams source:
+	- Streams can be created from Collections, Lists, Seets, ints, longs,
+	doubles, arrays, lines of a file
+Stream operations;
+	- Intermediate : filter, map, sort > return a strem and we can chain multiple..
+				- anyMatch, distinct, findFirst, skip, sorted
+	
+	
+	- Terminal: forEach, collect, reduce
+				count min max, summaryStatistics
+	
